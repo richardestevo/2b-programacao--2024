@@ -3,14 +3,13 @@
     margin: 0;
     }
     
-    
     .cabecalho {
-    background-color: #000000;
+    background-color: #383D58;
     color: #FFFFFF;
-    display:flex;
-    justify-content:space-around;
-    align-items:centerr;
-    padding: 20px 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
     }
     
     .cabecalho-imagem {
@@ -22,20 +21,12 @@
     margin: 0 16px;
     font-size: 24px;
     }
-
-    .png-clipart-sport-club-corinthians-paulista-first-epistle-to-the-corinthians-brazil-alcohol-miscellaneous-sport-thumbnail.png {
-        width: 25%
+    
+    .escola-imagem {
+    width: 35%;
     }
-    .escola { background-image: linear-gradient(rgba(0, 0, 0, 0.2), #000000);
-    color:#FFFFFF;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 24px 0;
-     }
-    .escola-titulo{
-padding:24x 0;
-    }
-    .conteudo{
-        width: 35%;
+    
+    .escola {
+    background-image: linear-gradient(#383D58, #ffffff00);
+    color: #FFFFFF;
     }
