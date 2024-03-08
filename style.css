@@ -26,4 +26,16 @@
     .png-clipart-sport-club-corinthians-paulista-first-epistle-to-the-corinthians-brazil-alcohol-miscellaneous-sport-thumbnail.png {
         width: 25%
     }
-    .escola { background-image: linear-gradient(rgba(0, 0, 0, 0.2), #000000);}
+    .escola { background-image: linear-gradient(rgba(0, 0, 0, 0.2), #000000);
+    color:#FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+     }
+    .escola-titulo{
+padding:24x 0;
+    }
+    .conteudo{
+        width: 35%;
+    }
