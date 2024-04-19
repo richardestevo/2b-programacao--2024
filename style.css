@@ -1,43 +1,40 @@
-@import url('https://fonts.googleapis.com/css2?family=Ojuju:wght@200..800&display=swap&#39;)
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap&#39;);
 
 * {
-padding: 0%;
-margin: 0%;
+padding: 0;
+margin: 0;
 }
 
 body{
-font-family: 'Ojuju';
+front-family: 'Poppins';
 }
-
-
-
 .cabecalho {
-background-color: #c086f0;
-color: #d1b0f7;
-display: flex;
-justify-content: spece-around;
-align-items: center;
-padding: 24px 0;
+background-color: #0a4cdb;
+color: #000000e3;
+display:flex;
+justify-content:space-around;
+align-items:centerr;
+padding: 20px 0;
 }
 
 .cabecalho-imagem {
-width: 10%;
+width: 20%;
 }
 
 .cabecalho-lista-item{
-display: inline-black;
+display: inline-block;
 margin: 0 16px;
 font-size: 24px;
 }
 
 .escola-imagem {
 width: 25%;
-}
 
-.escola {
-background-image: linear-gradient(#d45bdfb2,#8e5aeece);
-color:purple
-display: flex;
+}
+.escola{
+background-image: linear-gradient(#00b7ff,#0066ff);
+color:white;
+display:flex;
 justify-content: center;
 align-items: center;
 padding: 24px 0;
@@ -51,6 +48,6 @@ padding: 24px 0;
 width:35%;
 }
 
-.estudante-titulo
-text-aling: center;
+.estudante-titulo{
+text-align: center;
 padding: 50px 0;
